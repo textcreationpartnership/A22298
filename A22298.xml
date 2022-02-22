@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. Whereas wee for the continuance, and mainteining of the nauigation of this realme, and to the intent that skilfull mariners and seafaring men might be allwayes in readinesse to furnish, as well our owne Royall Nauie, as the shipping of our subiects ...</title>
+            <title>Proclamations. 1623-02-27</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22298</idno>
+            <idno type="STC">STC 8705</idno>
+            <idno type="STC">ESTC S100819</idno>
+            <idno type="EEBO-CITATION">99836646</idno>
+            <idno type="PROQUEST">99836646</idno>
+            <idno type="VID">930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22298)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 930)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1601:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. Whereas wee for the continuance, and mainteining of the nauigation of this realme, and to the intent that skilfull mariners and seafaring men might be allwayes in readinesse to furnish, as well our owne Royall Nauie, as the shipping of our subiects ...</title>
+                  <title>Proclamations. 1623-02-27</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[2] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton, and Iohn Bill, printers to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>M.DC.XXII. [1622, i.e. 1623]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening words of text.</note>
+                  <note>Dated at end: New-Market, the seuen and twentieth day of February, in the twentieth yere of our raigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The year date is given according to Lady Day dating.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sailors --  England --  Early works to 1800.</term>
+               <term>Foreign enlistment --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:930:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Wee for the continuance, and mainteining of the Nauiga<g ref="char:EOLhyphen"/>tion</hi> of this Realme, and to the intent that ſkilfull Mariners and Sea<g ref="char:EOLhyphen"/>faring men might be alwayes in readineſſe to furniſh, aſwell Our owne Royall Nauie, as the Shipping of Our Subiects, by Our Proclama<g ref="char:EOLhyphen"/>tion, dated the ſixt day of Auguſt laſt paſt, did ſtraitly inhibite and for<g ref="char:EOLhyphen"/>bid, that no Mariner or Sea-faring man, Ship-wright, or Ship-carpen<g ref="char:EOLhyphen"/>ter whatſoeuer, being Our Subiect, ſhould without expreſſe licence of Vs, or of Our Admirall of England, enter, or attempt, or goe about to enter into the ſeruice of any forraine Prince or State, or bee imployed out of this Realme in any ſeruice, (vnleſſe it were in the ſeruice of Vs, or of ſome of Our Liege Subiects;) Neuertheleſſe, Wee haue receiued Information, that notwithſtanding the ſtrictneſſe of that Our Commande<g ref="char:EOLhyphen"/>ment, great numbers of Mariners and Sea-faring men, contrary to their duety and allegeance, and againſt the Lawes of this Realme, haue preſumed without ſuch licence to goe abroad, and ſerue other Princes and States in forraine parts, to the great preiudice of Traffique and diſho<g ref="char:EOLhyphen"/>nour of Our owne ſeruice, And that very great and vnſufferable abuſes are committed by ſuch Mariners and Sea-faring men, as doe purpoſely withdraw, or wilfully refuſe to performe thoſe vrgent and important ſeruices, wherein We haue occaſion to make vſe of them: We haue thought good to ſignifie Our pleaſure, that Our ſaid former Proclamation be hereafter carefully obſerued and put in exact execution, Willing that all men ſhould take knowledge, and that We ſhall eſteeme the offenders therin, as Fugitiues and Runnagates, forgetting their naturall allegeance and dutie to Vs and Our Lawes, and accordingly ſhall proceede againſt them with all ſeueritie. And fur<g ref="char:EOLhyphen"/>thermore Wee doe ſtraitly charge and command, that no Mariner or Sea-faring man, abſent, hide, or withdraw himſelfe from Our ſeruice or Preſts, and that all ſuch perſons, hauing Our Preſt-money giuen or tendred vnto them, doe duetifully and reuerently receiue the ſame, and re<g ref="char:EOLhyphen"/>paire aboard Our Shippes at the times to them limited and aſſigned, and thencefoorth continue in Our ſeruice, as to the duetie of good Subiects appertaineth, and doe not withdraw themſelues
+<pb facs="tcp:930:2"/> or depart therefrom without eſpeciall licence, vpon paine to incurre the vttermoſt ſeueritie of Our Lawes, which Wee reſolue ſhall be extended to them as Malefactors in very high degree, to the hazard of Our Royall Nauie and ſeruice. And Wee doe further charge and ſtraitly Com<g ref="char:EOLhyphen"/>mand, that no perſon or perſons that ſhall be truſted or imployed for the preſting of any Mariners, or other perſons to be imployed in Our ſeruice at Sea, doe at any time for fauour, reward, or other ſiniſter reſpect, forbeare to preſt the ableſt and fitteſt men for ſuch Our ſeruice, or hauing preſt them, doe diſcharge them againe, or change them for perſons leſſe able and ſufficient; And that no Lieutenants, Maſters, Purſors, Gunners, Boteſwaines, or other inferiour officers in any of Our Shippes, nor any other, but ſuch onely, as by the due orders of Our Nauie are allowed ſo to doe, doe at any time hereafter preſume to diſcharge any Mariners, or other perſon preſted to ſerue in any Our Shippes, it being Our full reſolution, that Our Nauie being by Our Princely prouidence and care reſtored to as good and ſeruiceable eſtate, as any former time hath knowen it, the Officers, Mariners and other perſons appointed to ſerue therein ſhall bee ſo regulated and kept in order in their ſeuerall ſeruices and imployments, as may beſt agree to Our Honour, and the publique ſafetie of this Our Realme. And therefore if any perſon or perſons whatſoeuer, after this Our admonition and warning, ſhal preſume to offend in any thing before remembred, they ſhal not onely incurre Our Indignation and high diſpleaſure, but ſhall be ſubiect to the ſeuereſt puniſh<g ref="char:EOLhyphen"/>ment that Our Lawes or Royall Prerogatiue may inflict vpon them.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at New-Market</hi> 
+                  <date>
+                     <hi>the ſeuen and twentieth day of February, in the twentieth yere of Our Raigne of Great Brittaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXII</p>
+         </div>
+      </back>
+   </text>
+</TEI>
